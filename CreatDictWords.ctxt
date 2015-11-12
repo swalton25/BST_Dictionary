@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=filename\ n
+comment0.target=CreatDictWords(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=fileName\ n
+comment2.target=java.lang.String\ generateRandomWord(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ generateRandomLetter()
+comment4.params=n
+comment4.target=java.lang.String\ generateRandomWord(int)
+comment5.params=
+comment5.target=java.lang.String\ randomLetters()
+comment6.params=filename
+comment6.target=BSTDictionary\ createDictWordLengths(java.lang.String)
+comment7.params=filename\ n
+comment7.target=BSTDictionary\ createDictLetterFrequencies(java.lang.String,\ int)
+comment8.params=d
+comment8.target=java.lang.Object\ generateKey(BSTDictionary)
+comment9.params=dict
+comment9.target=BSTDictionary\ reduceToFrequencies(BSTDictionary)
+comment9.text=\r\n\ Takes\ a\ Dictionary\ where\ the\ values\ are\ only\ the\ number\ of\ occurences\ of\r\n\ the\ keys,\ and\ reduces\ the\ values\ to\ percentage\ frequencies.\r\n
+numComments=10
